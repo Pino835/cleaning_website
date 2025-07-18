@@ -14,6 +14,7 @@ export default function Header() {
         <nav className="space-x-6 text-gray-700 font-medium hidden md:block">
           <Link href="#about" className="hover:text-green-600 transition">Nosotros</Link>
           <Link href="#services" className="hover:text-green-600 transition">Servicios</Link>
+          <Link href="#map" className="hover:text-green-600 transition">Ubicacion</Link>
           <Link href="#contact" className="hover:text-green-600 transition">Contacto</Link>
         </nav>
       </div>

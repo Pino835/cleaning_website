@@ -7,6 +7,7 @@ export default function Footer() {
         <div className="space-x-4 mt-4 md:mt-0">
           <a href="#about" className="hover:underline">Nosotros</a>
           <a href="#services" className="hover:underline">Servicios</a>
+          <a href="#map" className="hover:underline">Ubicacion</a>
           <a href="#contact" className="hover:underline">Contacto</a>
         </div>
       </div>
