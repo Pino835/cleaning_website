@@ -1,7 +1,7 @@
 // src/components/Contact.js
 export default function Contact() {
   return (
-    <section id="map" className="min-h-screen py-32 bg-gray-100">
+    <section id="map" className="py-32 bg-gray-100">
         <div className="max-w-6xl mx-auto px-4">
             <h2 className="text-3xl font-bold mb-6 text-center">Ubicación</h2>
             <div className="aspect-video w-full border-4 border-white shadow-xl rounded-lg overflow-hidden">

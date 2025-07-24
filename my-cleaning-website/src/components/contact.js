@@ -1,7 +1,7 @@
 // src/components/Contact.js
 export default function Contact() {
   return (
-    <section id="contact" className="bg-white py-20 px-4">
+    <section id="contact" className="bg-white py-32 px-4">
       <div className="max-w-3xl mx-auto text-center">
         <h2 className="text-3xl font-bold mb-6 text-gray-800">Contáctanos</h2>
         <p className="text-gray-600 mb-8">¿Tienes preguntas o quieres agendar un servicio? Envíanos un mensaje y te responderemos pronto.</p>

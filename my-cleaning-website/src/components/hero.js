@@ -5,7 +5,7 @@ export default function Hero() {
       <div className="bg-black bg-opacity-60 p-8 rounded-lg text-center">
         <h1 className="text-4xl font-bold mb-4">Limpieza profesional para tu hogar</h1>
         <p className="mb-6">Servicio confiable, eficiente y personalizado</p>
-        <button className="bg-green-500 px-6 py-2 rounded hover:bg-green-600 transition">Cotiza ahora</button>
+        <a href="/contact" className="bg-green-500 px-6 py-2 rounded hover:bg-green-600 transition">Cotiza ahora</a>
       </div>
     </section>
   )
